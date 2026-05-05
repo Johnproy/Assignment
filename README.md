@@ -14,9 +14,9 @@ saarland.de`.
 3. Provided the cluster password to successfully connect to host.
 4. Then used the commands `mkdir ~/tml26_task1` then `cd ~/tml26_task1`.
 5. Then downloaded the following files,
-``wget "https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/pub.pt"`` \ 
-``wget "https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/priv.pt"`` \  
-``wget "https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/model.pt"`` \
+``wget "https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/pub.pt"``  
+``wget "https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/priv.pt"``   
+``wget "https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/model.pt"`` 
 ``wget "https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/task_template.py"``
 6. In task_template.py file added the API key.
 7. Then we ran the command `mkdir -p runlogs` once.
