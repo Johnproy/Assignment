@@ -8,10 +8,10 @@ This repository has the code we used for membership inference attack. The script
 - 'task_template.py' - Contains the code
 
 ##Input Files
-'''text
-pub.pt
-priv.pt
-model.pt
+
+- pub.pt
+- priv.pt
+- model.pt
 
 How to Setup and Run:
 
