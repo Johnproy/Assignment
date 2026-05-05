@@ -2,10 +2,10 @@
 This repository has the code we used for membership inference attack. The script loads the given public dataset, private dataset, and target model then it computes membership scores using loss/confidence-based features and shadow-model LiRA-style scoring and generates `submission.csv` file.
 
 ##Files
-mia.sub - HTCondor submit file to run the job
-submission.csv - Generated output file
-run.sh - Shell script file
-task_template.py - Contains the code
+- 'mia.sub' - HTCondor submit file to run the job
+- 'submission.csv' - Generated output file
+- 'run.sh' - Shell script file
+- 'task_template.py' - Contains the code
 
 ##Input Files
 pub.pt
