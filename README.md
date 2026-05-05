@@ -9,7 +9,7 @@ This repository has the code we used for membership inference attack. The script
 How to Setup and Run:
 
 1. Used `sudo openconnect vpn.hiz-saarland.de` command to connect to university VPN.
-2. Then in VS Code created a Connected to SSH remote host using `conduit.hpc.uni-saarland.de or conduit2.hpc.uni
+2. Then in VS Code created a Connection to SSH remote host using `conduit.hpc.uni-saarland.de or conduit2.hpc.uni
 saarland.de`.
 3. Provided the cluster password to successfully connect to host.
 4. Then used the commands `mkdir ~/tml26_task1` then `cd ~/tml26_task1`.
