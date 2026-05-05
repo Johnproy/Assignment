@@ -27,4 +27,5 @@ wget "https://huggingface.co/datasets/SprintML/tml26_task1/resolve/main/task_tem
 6. In task_template.py file added the API key.
 7. Then we ran the command mkdir -p runlogs once.
 8. Thereafter, for running the code and submitting used the command condor_submit mia.sub
-9. For checking the job,  condor_q was used.
+9. To check the job is running condor_q was used.
+10. To visit the leaderboard, this link was used http://34.63.153.158/leaderboard_page 
